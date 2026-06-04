@@ -1,0 +1,58 @@
+app_usage_time_min
+swipe_right_ratio
+likes_received
+mutual_matches
+profile_pics_count
+bio_length
+message_sent_count
+emoji_usage_rate
+last_active_hour
+age
+height_cm
+weight_kg
+num_interests
+income_bracket_encoded
+education_level_encoded
+gender_Genderfluid
+gender_Male
+gender_Non-binary
+gender_Prefer Not to Say
+gender_Transgender
+sexual_orientation_Bisexual
+sexual_orientation_Demisexual
+sexual_orientation_Gay
+sexual_orientation_Lesbian
+sexual_orientation_Pansexual
+sexual_orientation_Queer
+sexual_orientation_Straight
+location_type_Remote Area
+location_type_Rural
+location_type_Small Town
+location_type_Suburban
+location_type_Urban
+swipe_time_of_day_Afternoon
+swipe_time_of_day_Early Morning
+swipe_time_of_day_Evening
+swipe_time_of_day_Late Night
+swipe_time_of_day_Morning
+zodiac_sign_Aries
+zodiac_sign_Cancer
+zodiac_sign_Capricorn
+zodiac_sign_Gemini
+zodiac_sign_Leo
+zodiac_sign_Libra
+zodiac_sign_Pisces
+zodiac_sign_Sagittarius
+zodiac_sign_Scorpio
+zodiac_sign_Taurus
+zodiac_sign_Virgo
+body_type_Average
+body_type_Curvy
+body_type_Muscular
+body_type_Plus Size
+body_type_Slim
+relationship_intent_Exploring
+relationship_intent_Friends Only
+relationship_intent_Hookups
+relationship_intent_Networking
+relationship_intent_Serious Relationship
